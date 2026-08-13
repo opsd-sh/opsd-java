@@ -4,4 +4,16 @@ target/
 .classpath
 .project
 .settings/
-
+.env
+.env.*
+settings.xml
+*.asc
+*.gpg
+*.key
+*.kbx
+*.p12
+*.pfx
+*.pem
+*.rev
+*.jks
+*.keystore
